@@ -20,4 +20,5 @@ C++
 ![image](https://github.com/user-attachments/assets/f09ef737-8eef-4e36-a805-f5d4c52d9e25)
 ![image](https://github.com/user-attachments/assets/8a9f7f94-e0b6-46b8-a32d-6c7f03a23346)
 ![image](https://github.com/user-attachments/assets/6e75ef67-588e-443a-b16d-d5b283faf233)
+## Готовый файл:
 ![image](https://github.com/user-attachments/assets/aadceeed-a687-4473-a0ef-2ce4875a7b4d)
